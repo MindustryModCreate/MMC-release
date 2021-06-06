@@ -5,3 +5,7 @@
 
 |`5.0.0 beta`|[`Download apk`](https://github.com/MindustryModCreate/MMC-release/releases/download/5.0.0beta/Mindustry.Mod.Create_5.0.0.apk)|![icon](https://raw.githubusercontent.com/MindustryModCreate/MMC-release/main/5.0.0beta.png)|
 |-|-|-|
+
+```diff
+- Если у вас вылетает то очистите данные приложения
+```
