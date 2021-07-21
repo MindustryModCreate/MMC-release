@@ -5,6 +5,7 @@
 
 |Версия|Скачать|Иконка|Дата|
 |-|-|-|-|
+|5.0.6 beta|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.0.6beta/Mindustry.Mod.Create_5.0.6.beta.apk)|-|22.07.2021|
 |5.0.5 beta|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.0.5beta/Mindustry.Mod.Create_5.0.5.beta.apk)|-|11.07.2021|
 |5.0.4 beta|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.0.4beta/Mindustry.Mod.Create_5.0.4.beta.apk)|-|16.06.2021|
 |5.0.3 beta|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.0.3beta/Mindustry.Mod.Create_5.0.3.beta.apk)|-|10.06.2021|
