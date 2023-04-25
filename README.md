@@ -5,6 +5,7 @@
 
 |Версия|Скачать|Иконка|Дата|
 |-|-|-|-|
+|5.3.4|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.4/mmc5.3.4.apk)|-|25.04.2023|
 |5.3.3|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.3/mmc5.3.3.apk)|-|23.04.2023|
 |5.3.2|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.2/mmc5.3.2.apk)|-|13.04.2023|
 |5.3.1|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.1/mmc5.3.1.apk)|-|29.03.2023|
