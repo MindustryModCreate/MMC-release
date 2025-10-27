@@ -3,8 +3,11 @@
 
 ### Download
 
+Для версии 5.3.6 может потребоваться переустановка приложения (удаление и установка новой версии)
+
 |Версия|Скачать|Иконка|Дата|
 |-|-|-|-|
+|5.3.6|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.6/mmc5.3.6.apk)|-|27.10.2025|
 |5.3.5|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.5/mmc5.3.5.apk)|-|30.04.2023|
 |5.3.4|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.4/mmc5.3.4.apk)|-|25.04.2023|
 |5.3.3|[Скачать apk](https://github.com/MindustryModCreate/MMC-release/releases/download/5.3.3/mmc5.3.3.apk)|-|23.04.2023|
